@@ -65,18 +65,18 @@ document.write("," + city[3])
 
 
 // Question # 12
-// var word= ["This", "is", "my", "cat"]
+var word= ["This", "is", "my", "cat"]
 
-// document.write(`<h1>Array</h1> ${word} <br> <h1>String</h1> ${word.join(" ")}`)
+document.write(`<h1>Array</h1> ${word} <br> <h1>String</h1> ${word.join(" ")}`)
 
-// // Question # 13
-// var accessories= ["keyboard", "mouse", "printer", "monitor"]
+// Question # 13
+var accessories= ["keyboard", "mouse", "printer", "monitor"]
 
-// document.write(`<h1>Devices</h1> ${accessories} <br>`)
-// document.write(`Out: ${accessories[0]} <br>`)
-// document.write(`Out: ${accessories[1]} <br>`)
-// document.write(`Out: ${accessories[2]} <br>`)
-// document.write(`Out: ${accessories[3]} <br>`)
+document.write(`<h1>Devices</h1> ${accessories} <br>`)
+document.write(`Out: ${accessories[0]} <br>`)
+document.write(`Out: ${accessories[1]} <br>`)
+document.write(`Out: ${accessories[2]} <br>`)
+document.write(`Out: ${accessories[3]} <br>`)
 
 // Question # 14
 
