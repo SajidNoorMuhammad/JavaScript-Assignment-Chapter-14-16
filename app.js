@@ -87,4 +87,10 @@ document.write(`Out: ${accessories[2]} <br>`)
 document.write(`Out: ${accessories[1]} <br>`)
 document.write(`Out: ${accessories[0]} <br>`)
 
+// Question # 15
+var mobile= ["Samsung ", "Apple ", "Nokia ", "Motorola ", "Sony ", "Haier "]
+
+document.write (`<h1>Mobile Companies</h1> <br> Devices: ${mobile} <br> 
+1) ${mobile[0]} <br>2) ${mobile[1]}<br>3) ${mobile[2]}<br>4) ${mobile[3]}<br>5) ${mobile[4]}<br>6) ${mobile[5]}`)
+
 
