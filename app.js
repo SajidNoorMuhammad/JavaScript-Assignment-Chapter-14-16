@@ -79,5 +79,12 @@ document.write(`Out: ${accessories[2]} <br>`)
 document.write(`Out: ${accessories[3]} <br>`)
 
 // Question # 14
+var accessories= ["keyboard", "mouse", "printer", "monitor"]
+
+document.write(`<h1>Devices</h1> ${accessories} <br>`)
+document.write(`Out: ${accessories[3]} <br>`)
+document.write(`Out: ${accessories[2]} <br>`)
+document.write(`Out: ${accessories[1]} <br>`)
+document.write(`Out: ${accessories[0]} <br>`)
 
 
